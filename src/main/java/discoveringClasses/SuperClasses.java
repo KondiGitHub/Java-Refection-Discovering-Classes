@@ -1,3 +1,5 @@
+package discoveringClasses;
+
 import javax.swing.*;
 
 public class SuperClasses {

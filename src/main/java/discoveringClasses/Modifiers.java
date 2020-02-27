@@ -1,3 +1,5 @@
+package discoveringClasses;
+
 import java.lang.reflect.Modifier;
 
 public class Modifiers {

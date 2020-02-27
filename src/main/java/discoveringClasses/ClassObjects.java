@@ -1,3 +1,5 @@
+package discoveringClasses;
+
 import java.awt.*;
 
 public class ClassObjects {
